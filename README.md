@@ -98,8 +98,3 @@ README file was created explaining the project in detail.
 Files like test_api.py were added to demonstrate how to test without Postman.
 
 OUTPUT:
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/69b41772-8d78-4575-add6-642ec9adeb2b" />
-
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b178ea7d-9b7f-4686-b370-22db34882d29" />
-
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0296d2a2-d35d-4985-907f-f377b4c4c777" />
