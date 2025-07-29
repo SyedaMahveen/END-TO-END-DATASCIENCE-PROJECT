@@ -101,3 +101,12 @@ Response:
 {
   "prediction": "Iris-setosa"
 }
+
+OUTPUT:
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/da8247d6-3a1c-4b61-9b66-415235a853ab" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e165e89c-20c6-4f43-9fcd-549de5cfd02e" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5f42077c-b7e8-43b1-b573-c3f5186ef374" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ffeffd27-1a71-4135-b797-766e868c1428" />
